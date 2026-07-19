@@ -1,13 +1,39 @@
 # Dev Resources
 
-A collection of cheat sheets, guides, and templates for developers.  
-Everything here is beginner-friendly, practical, and ready to use.
+A curated collection of developer resources, practical notes, cheat sheets, guides, and references gathered while learning and building software.
 
-## Contents
-- [Guides](guides/)
-- [Cheat Sheets](cheat-sheets/)
-- [Templates](templates/)
-- [Examples](examples/)
+The goal of this repository is to keep knowledge organized, easy to revisit, and useful for anyone looking for concise developer resources.
 
-## How to Contribute
-Found a useful resource? Fork the repo, add it, and submit a pull request.
+## What's Inside
+
+This repository contains resources across various software engineering topics, including:
+
+- Git & GitHub
+- Linux
+- Docker
+- Kubernetes
+- Databases
+- DevOps
+- Programming Languages
+- Frameworks & Libraries
+- System Design
+- AI Engineering
+- And more as the repository grows.
+
+## Purpose
+
+- Document concepts while learning.
+- Keep practical notes for quick revision.
+- Build a searchable developer knowledge base.
+- Share useful resources with the community.
+
+## Contributing
+
+Contributions are welcome.
+
+If you'd like to improve an existing resource or add a new one:
+
+1. Fork the repository.
+2. Create a new branch.
+3. Make your changes.
+4. Open a Pull Request.
